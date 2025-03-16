@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
       resetPuzzle();
     });
 
-  revealAnswers();
+  // revealAnswers();
 });
 // 현재 입력란의 단어 강조 표시
 function highlightWord(input) {
